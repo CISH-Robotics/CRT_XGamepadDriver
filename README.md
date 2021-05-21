@@ -7,7 +7,8 @@ This driver is not free. To use this driver you must have a Activation Key for c
 The activation key for every controller is different.  
 If you don't have a activation key, you can purhase from [@CRT_HAO](https://t.me/crt_hao) on Telegram.
 ## Free version
-The driver for NI-Linux Target is not free, but for PC is free.
+The driver for NI RT-Linux Target is not free, but for PC is free.  
+The reason is that the lower layer software of RT-Linux is different from the PC version.
 ## Support Devices
  - Most NI-Linux Target
  - Windows, macOS, Linux PC
