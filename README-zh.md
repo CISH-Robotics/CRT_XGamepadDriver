@@ -7,9 +7,10 @@ LabVIEW Xbox 360手柄驅動程序
 每個控制器的激活密鑰都不相同。  
 如果您沒有激活密鑰，則可以從Telegram上聯絡[@CRT_HAO](https://t.me/crt_hao)購買。
 ## 免費版本
-NI-Linux Target版本的驅動程序不是免費的，但PC版本的驅動程序是免費的。
+NI RT-Linux Target版本的驅動程序不是免費的，但PC版本的驅動程序是免費的。  
+其原因是RT-Linux及PC版本的底層實現方式有所不同。
 ## 支持設備
- - 大多數NI-Linux目標
+ - 大多數NI-Linux設備
  - Windows，macOS，Linux PC
 ## 為以下設備編譯
  - NI-myRIO-1900
