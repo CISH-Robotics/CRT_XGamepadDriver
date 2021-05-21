@@ -1,6 +1,7 @@
 English | [中文](https://github.com/CISH-Robotics/CRT_XGamepadDriver/blob/main/README-zh.md)
 # XGamepadDriver
-LabVIEW Xbox 360 Controller Driver for NI RT-Linux and PC
+![MainLogo](https://user-images.githubusercontent.com/31580253/119094434-9a588600-ba43-11eb-82c1-5914aafce531.png)  
+LabVIEW Xbox 360 Controller Driver for NI RT-Linux and PC  
 ## Non-free software!
 This driver is not free. To use this driver you must have a Activation Key for controller.  
 The activation key for every controller is different.  
@@ -14,5 +15,11 @@ The driver for NI-Linux Target is not free, but for PC is free.
  - NI-myRIO-1900
  - PC Windows 10 x64
  - If you need for the other support device, you can contact me or make an issue.
+## Tested controller
+ - Logitech F710
+ - GameSir G3
+ - Studica Controller
 ## Download
 You can download the Packed Library [here](https://github.com/CISH-Robotics/CRT_XGamepadDriver/releases).
+## Screenshots
+![Screenshot1](https://user-images.githubusercontent.com/31580253/119093751-ad1e8b00-ba42-11eb-904e-c6c94d3bc441.png)
