@@ -17,7 +17,7 @@ LabVIEW == 2019(19.0)
 ## 為以下設備編譯
  - NI-myRIO-1900
  - PC Windows 10 x64
- - 如果需要其他支持設備，可以與我聯繫或提出問題。
+ - 如果需要其他支持設備，可以與[@CRT_HAO](https://t.me/crt_hao)聯繫或提出問題。
 ## 經過測試的手柄
  - Logitech F710
  - GameSir G3
