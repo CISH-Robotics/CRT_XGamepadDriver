@@ -10,7 +10,7 @@ LabVIEW Xbox 360手柄驅動程序
 NI RT-Linux Target版本的驅動程序不是免費的，但PC版本的驅動程序是免費的。  
 其原因是RT-Linux及PC版本的底層實現方式有所不同。
 ## 支持設備
- - 大多數NI-Linux設備
+ - 大多數NI RT-Linux設備
  - Windows，macOS，Linux PC
 ## 為以下設備編譯
  - NI-myRIO-1900
