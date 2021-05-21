@@ -3,8 +3,8 @@
 ![MainLogo](https://user-images.githubusercontent.com/31580253/119094434-9a588600-ba43-11eb-82c1-5914aafce531.png)  
 LabVIEW Xbox 360手柄驅動程序  
 ## 非免費軟體!
-此驅動程序不是免費的。 要使用此驅動程序，您必須具有控制器的激活密鑰。  
-每個控制器的激活密鑰都不相同。  
+此驅動程序不是免費的。 要使用此驅動程序，您必須具有手柄的激活密鑰。  
+每個手柄的激活密鑰都不相同。  
 如果您沒有激活密鑰，則可以從Telegram上聯絡[@CRT_HAO](https://t.me/crt_hao)購買。
 ## 免費版本
 NI RT-Linux Target版本的驅動程序不是免費的，但PC版本的驅動程序是免費的。  
