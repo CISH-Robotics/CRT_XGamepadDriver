@@ -17,7 +17,7 @@ LabVIEW == 2019(19.0)
 ## Compiled for the following devices
  - NI-myRIO-1900
  - PC Windows 10 x64
- - If you need for the other support device, you can contact me or make an issue.
+ - If you need for the other support device, you can contact [@CRT_HAO](https://t.me/crt_hao) or make an issue.
 ## Tested controller
  - Logitech F710
  - GameSir G3
