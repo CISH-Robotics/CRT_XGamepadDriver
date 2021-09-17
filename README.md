@@ -9,9 +9,9 @@ If you don't have a activation key, you can purhase from [@CRT_HAO](https://t.me
 ## Free version
 The driver for NI RT-Linux Target is not free, but for PC is free.  
 The reason is that the lower layer software of RT-Linux is different from the PC version.
-## Support LabVIEW Version
+## Support LabVIEW version
 LabVIEW == 2019(19.0)
-## Support Devices
+## Support devices
  - Most NI RT-Linux Target
  - Windows, macOS, Linux PC
 ## Compiled for the following devices
